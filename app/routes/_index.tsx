@@ -101,7 +101,7 @@ export default function Index() {
 <button className="p-[3px] relative">
     <div className="absolute inset-0 bg-gradient-to-r from-blue-800 to-blue-300 rounded-lg" />
     <div className="px-8 py-2  bg-white rounded-[6px]  relative group transition duration-200 text-blue-600 hover:bg-transparent">
-    <Link to="https://twitter.com/DespairToken">
+    <Link to="https://twitter.com/enjoysoltoken">
     Twitter
     </Link>
     </div>
@@ -125,7 +125,7 @@ export default function Index() {
 <button className="p-[3px] relative">
     <div className="absolute inset-0 bg-gradient-to-r from-blue-800 to-blue-300 rounded-lg" />
     <div className="px-8 py-2  bg-white rounded-[6px]  relative group transition duration-200 text-blue-600 hover:bg-transparent">
-    <Link to="https://t.me/despaircommunity">
+    <Link to="https://t.me/enjoytoken">
     Telegram
     </Link>
     </div>

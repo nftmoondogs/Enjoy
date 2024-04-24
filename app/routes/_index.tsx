@@ -152,7 +152,7 @@ export default function Index() {
             </span>{" "}
             Fair Launch on {" "}
             <Link
-              to="https://pump.fun/6EHv5xNPPgNhaAeorZRATKYvos8m3ZFBU9qvdZw8SCvo"
+              to="https://pump.fun/board"
               className="font-extrabold bg-gradient-to-r from-blue-800 via-blue-300 to-blue-50 text-transparent bg-clip-text bg-300% animate-gradient hover:text-emerald-500"
             >
               Pump.fun
